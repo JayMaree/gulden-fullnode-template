@@ -3,7 +3,7 @@ This template can be used for gulden full node installations to promote your nod
 
 I have used the latest Bootstrap, JavaScript and SweetAlert versions to build the template.
 
-An example can be found at http://singapore-node-1.jaymaree.nl
+An example can be found at http://node-1.guldendirect.nl
 
 # Serving to the web
 I advise you to use a secure and lightweight webserver, for ex. Caddy (https://caddyserver.com).
